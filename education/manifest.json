@@ -1,0 +1,68 @@
+{
+  "category": "education",
+  "posts": [
+    {
+      "display_name": "@ourschoolsusa_cbad",
+      "folder": "ourschoolsusa-cbad",
+      "files": [
+        "01.webp",
+        "02.webp",
+        "03.webp",
+        "04.webp",
+        "05.webp",
+        "06.webp",
+        "07.webp",
+        "08.webp",
+        "09.webp",
+        "10.webp",
+        "11.webp"
+      ],
+      "caption": null,
+      "source_gallery": "clarion_education_instagram_gallery.html"
+    },
+    {
+      "display_name": "@awaketn",
+      "folder": "awaketn",
+      "files": [
+        "01.webp",
+        "02.webp",
+        "03.webp",
+        "04.webp",
+        "05.webp",
+        "06.webp",
+        "07.webp",
+        "08.webp"
+      ],
+      "caption": null,
+      "source_gallery": "clarion_education_instagram_gallery.html"
+    },
+    {
+      "display_name": "@scholarfundwa",
+      "folder": "scholarfundwa",
+      "files": [
+        "01.webp",
+        "02.webp"
+      ],
+      "caption": null,
+      "source_gallery": "clarion_education_instagram_gallery.html"
+    },
+    {
+      "display_name": "@pernillesripp",
+      "folder": "pernillesripp",
+      "files": [
+        "01.webp",
+        "02.webp",
+        "03.webp",
+        "04.webp",
+        "05.webp",
+        "06.webp",
+        "07.webp",
+        "08.webp",
+        "09.webp",
+        "10.webp"
+      ],
+      "caption": null,
+      "source_gallery": "clarion_education_instagram_gallery.html"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "category": "food-nutrition",
+  "posts": [
+    {
+      "display_name": "@commonsearth",
+      "folder": "commonsearth",
+      "files": [
+        "01.webp",
+        "02.webp",
+        "03.webp",
+        "04.webp",
+        "05.webp",
+        "06.webp",
+        "07.webp",
+        "08.webp",
+        "caption.webp"
+      ],
+      "caption": "caption.webp",
+      "source_gallery": "clarion_instagram_gallery_new_set.html"
+    },
+    {
+      "display_name": "@itsafronomics",
+      "folder": "itsafronomics",
+      "files": [
+        "01.webp",
+        "02.webp",
+        "03.webp",
+        "04.webp",
+        "05.webp",
+        "06.webp",
+        "caption.webp"
+      ],
+      "caption": "caption.webp",
+      "source_gallery": "clarion_instagram_gallery_new_set.html"
+    },
+    {
+      "display_name": "@thefreshwaterlab",
+      "folder": "thefreshwaterlab",
+      "files": [
+        "01.webp",
+        "02.webp",
+        "03.webp",
+        "04.webp",
+        "05.webp",
+        "06.webp",
+        "07.webp",
+        "08.webp",
+        "09.webp",
+        "caption.webp"
+      ],
+      "caption": "caption.webp",
+      "source_gallery": "clarion_instagram_gallery_new_set.html"
+    },
+    {
+      "display_name": "@naesthetycs",
+      "folder": "naesthetycs",
+      "files": [
+        "01.webp",
+        "02.webp",
+        "03.webp",
+        "04.webp",
+        "05.webp",
+        "06.webp",
+        "07.webp",
+        "08.webp",
+        "caption.webp"
+      ],
+      "caption": "caption.webp",
+      "source_gallery": "clarion_instagram_gallery_new_set.html"
+    },
+    {
+      "display_name": "@unitednations_europe",
+      "folder": "unitednations-europe",
+      "files": [
+        "01.webp",
+        "02.webp",
+        "03.webp",
+        "04.webp",
+        "05.webp",
+        "06.webp",
+        "07.webp",
+        "caption.webp"
+      ],
+      "caption": "caption.webp",
+      "source_gallery": "clarion_instagram_gallery_new_set.html"
+    },
+    {
+      "display_name": "@tastebeforeyouwaste",
+      "folder": "tastebeforeyouwaste",
+      "files": [
+        "01.webp",
+        "02.webp",
+        "03.webp",
+        "04.webp",
+        "05.webp",
+        "06.webp",
+        "07.webp",
+        "08.webp",
+        "09.webp",
+        "10.webp",
+        "11.webp",
+        "caption.webp"
+      ],
+      "caption": "caption.webp",
+      "source_gallery": "clarion_instagram_gallery_new_set.html"
+    }
+  ]
+}

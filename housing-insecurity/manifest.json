@@ -1,0 +1,97 @@
+{
+  "category": "housing-insecurity",
+  "posts": [
+    {
+      "display_name": "@repcoalitionsf",
+      "folder": "repcoalitionsf",
+      "files": [
+        "01.webp",
+        "02.webp",
+        "03.webp",
+        "04.webp",
+        "05.webp",
+        "06.webp",
+        "07.webp",
+        "08.webp",
+        "caption.webp"
+      ],
+      "caption": "caption.webp",
+      "source_gallery": "clarion_instagram_gallery_housing_set.html"
+    },
+    {
+      "display_name": "@opentablenashville",
+      "folder": "opentablenashville",
+      "files": [
+        "01.webp",
+        "02.webp",
+        "03.webp",
+        "04.webp",
+        "05.webp",
+        "06.webp",
+        "caption.webp"
+      ],
+      "caption": "caption.webp",
+      "source_gallery": "clarion_instagram_gallery_housing_set.html"
+    },
+    {
+      "display_name": "@impact",
+      "folder": "impact",
+      "files": [
+        "01.webp",
+        "02.webp",
+        "03.webp",
+        "04.webp",
+        "05.webp",
+        "06.webp",
+        "07.webp",
+        "08.webp",
+        "09.webp",
+        "caption.webp"
+      ],
+      "caption": "caption.webp",
+      "source_gallery": "clarion_instagram_gallery_housing_set.html"
+    },
+    {
+      "display_name": "@stopvalleysedge",
+      "folder": "stopvalleysedge",
+      "files": [
+        "01.webp",
+        "02.webp",
+        "03.webp",
+        "04.webp",
+        "05.webp",
+        "06.webp",
+        "07.webp"
+      ],
+      "caption": null,
+      "source_gallery": "clarion_instagram_gallery_housing_set.html"
+    },
+    {
+      "display_name": "@uwbayarea",
+      "folder": "uwbayarea",
+      "files": [
+        "01.webp",
+        "02.webp",
+        "03.webp",
+        "04.webp",
+        "caption.webp"
+      ],
+      "caption": "caption.webp",
+      "source_gallery": "clarion_instagram_gallery_housing_set.html"
+    },
+    {
+      "display_name": "@workingeastbay",
+      "folder": "workingeastbay",
+      "files": [
+        "01.webp",
+        "02.webp",
+        "03.webp",
+        "04.webp",
+        "05.webp",
+        "caption.webp"
+      ],
+      "caption": "caption.webp",
+      "source_gallery": "clarion_instagram_gallery_housing_set.html"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "categories": [
+    {
+      "folder": "mental-health",
+      "post_count": 6,
+      "image_count": 49
+    },
+    {
+      "folder": "education",
+      "post_count": 4,
+      "image_count": 31
+    },
+    {
+      "folder": "climate-change",
+      "post_count": 6,
+      "image_count": 60
+    },
+    {
+      "folder": "fast-fashion",
+      "post_count": 12,
+      "image_count": 102
+    },
+    {
+      "folder": "food-nutrition",
+      "post_count": 6,
+      "image_count": 55
+    },
+    {
+      "folder": "housing-insecurity",
+      "post_count": 6,
+      "image_count": 44
+    },
+    {
+      "folder": "human-rights-immigration",
+      "post_count": 12,
+      "image_count": 103
+    },
+    {
+      "folder": "reproductive-rights",
+      "post_count": 7,
+      "image_count": 64
+    }
+  ]
+}
