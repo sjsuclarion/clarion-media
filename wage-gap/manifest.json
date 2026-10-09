@@ -1,0 +1,103 @@
+{
+  "category": "wage-gap",
+  "posts": [
+    {
+      "display_name": "@stoltzgroup",
+      "folder": "stoltzgroup",
+      "files": [
+        "01.webp",
+        "02.webp",
+        "03.webp",
+        "04.webp",
+        "05.webp",
+        "06.webp",
+        "caption.webp"
+      ],
+      "caption": "caption.webp",
+      "source_gallery": "clarion_instagram_gallery_wage_gap.html"
+    },
+    {
+      "display_name": "@feminist",
+      "folder": "feminist",
+      "files": [
+        "01.webp",
+        "02.webp",
+        "03.webp",
+        "04.webp",
+        "05.webp",
+        "06.webp",
+        "caption.webp"
+      ],
+      "caption": "caption.webp",
+      "source_gallery": "clarion_instagram_gallery_wage_gap.html"
+    },
+    {
+      "display_name": "@everodsky",
+      "folder": "everodsky",
+      "files": [
+        "01.webp",
+        "02.webp",
+        "03.webp",
+        "04.webp",
+        "05.webp",
+        "06.webp",
+        "caption.webp"
+      ],
+      "caption": "caption.webp",
+      "source_gallery": "clarion_instagram_gallery_wage_gap.html"
+    },
+    {
+      "display_name": "@thecaregap",
+      "folder": "thecaregap",
+      "files": [
+        "01.webp",
+        "02.webp",
+        "03.webp",
+        "04.webp",
+        "05.webp",
+        "06.webp",
+        "07.webp",
+        "08.webp",
+        "caption.webp"
+      ],
+      "caption": "caption.webp",
+      "source_gallery": "clarion_instagram_gallery_wage_gap.html"
+    },
+    {
+      "display_name": "@latinasintechorg",
+      "folder": "latinasintechorg",
+      "files": [
+        "01.webp",
+        "02.webp",
+        "03.webp",
+        "04.webp",
+        "05.webp",
+        "06.webp",
+        "07.webp",
+        "08.webp",
+        "caption.webp"
+      ],
+      "caption": "caption.webp",
+      "source_gallery": "clarion_instagram_gallery_wage_gap.html"
+    },
+    {
+      "display_name": "@themuchmuch",
+      "folder": "themuchmuch",
+      "files": [
+        "01.webp",
+        "02.webp",
+        "03.webp",
+        "04.webp",
+        "05.webp",
+        "06.webp",
+        "07.webp",
+        "08.webp",
+        "09.webp",
+        "caption.webp"
+      ],
+      "caption": "caption.webp",
+      "source_gallery": "clarion_instagram_gallery_wage_gap.html"
+    }
+  ],
+  "display_name": "Wage Gap"
+}

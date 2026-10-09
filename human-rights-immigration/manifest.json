@@ -1,5 +1,6 @@
 {
   "category": "human-rights-immigration",
+  "display_name": "Human Rights & Immigration",
   "posts": [
     {
       "display_name": "@flforallvote",
@@ -104,101 +105,6 @@
       ],
       "caption": "caption.webp",
       "source_gallery": "clarion_instagram_gallery_new_group.html"
-    },
-    {
-      "display_name": "@fightingformyvoice",
-      "folder": "fightingformyvoice",
-      "files": [
-        "01.webp",
-        "02.webp",
-        "03.webp",
-        "04.webp",
-        "05.webp",
-        "06.webp",
-        "07.webp",
-        "08.webp",
-        "caption.webp"
-      ],
-      "caption": "caption.webp",
-      "source_gallery": "clarion_instagram_gallery_human_rights_set.html"
-    },
-    {
-      "display_name": "@gamvp",
-      "folder": "gamvp",
-      "files": [
-        "01.webp",
-        "02.webp",
-        "03.webp",
-        "04.webp",
-        "caption.webp"
-      ],
-      "caption": "caption.webp",
-      "source_gallery": "clarion_instagram_gallery_human_rights_set.html"
-    },
-    {
-      "display_name": "@yhf_duke",
-      "folder": "yhf-duke",
-      "files": [
-        "01.webp",
-        "02.webp",
-        "03.webp",
-        "04.webp",
-        "caption.webp"
-      ],
-      "caption": "caption.webp",
-      "source_gallery": "clarion_instagram_gallery_human_rights_set.html"
-    },
-    {
-      "display_name": "@feminist.fiction.berlin",
-      "folder": "feminist-fiction-berlin",
-      "files": [
-        "01.webp",
-        "02.webp",
-        "03.webp",
-        "04.webp",
-        "05.webp",
-        "06.webp",
-        "07.webp",
-        "caption.webp"
-      ],
-      "caption": "caption.webp",
-      "source_gallery": "clarion_instagram_gallery_human_rights_set.html"
-    },
-    {
-      "display_name": "@jcfrias",
-      "folder": "jcfrias",
-      "files": [
-        "01.webp",
-        "02.webp",
-        "03.webp",
-        "04.webp",
-        "05.webp",
-        "06.webp",
-        "07.webp",
-        "08.webp",
-        "caption.webp"
-      ],
-      "caption": "caption.webp",
-      "source_gallery": "clarion_instagram_gallery_human_rights_set.html"
-    },
-    {
-      "display_name": "@decolonialthoughts",
-      "folder": "decolonialthoughts",
-      "files": [
-        "01.webp",
-        "02.webp",
-        "03.webp",
-        "04.webp",
-        "05.webp",
-        "06.webp",
-        "07.webp",
-        "08.webp",
-        "09.webp",
-        "10.webp",
-        "caption.webp"
-      ],
-      "caption": "caption.webp",
-      "source_gallery": "clarion_instagram_gallery_human_rights_set.html"
     }
   ]
 }

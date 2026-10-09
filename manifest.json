@@ -1,44 +1,88 @@
 {
   "categories": [
     {
-      "folder": "mental-health",
-      "post_count": 6,
-      "image_count": 49
-    },
-    {
       "folder": "education",
+      "display_name": "Access to Education",
       "post_count": 4,
       "image_count": 31
     },
     {
       "folder": "climate-change",
+      "display_name": "Climate Change",
       "post_count": 6,
       "image_count": 60
     },
     {
+      "folder": "consumerism",
+      "display_name": "Consumerism",
+      "post_count": 6,
+      "image_count": 51
+    },
+    {
       "folder": "fast-fashion",
-      "post_count": 12,
-      "image_count": 102
+      "display_name": "Fast Fashion",
+      "post_count": 6,
+      "image_count": 51
     },
     {
       "folder": "food-nutrition",
+      "display_name": "Food & Nutrition",
       "post_count": 6,
       "image_count": 55
     },
     {
       "folder": "housing-insecurity",
+      "display_name": "Housing Insecurity",
       "post_count": 6,
       "image_count": 44
     },
     {
       "folder": "human-rights-immigration",
-      "post_count": 12,
-      "image_count": 103
+      "display_name": "Human Rights & Immigration",
+      "post_count": 6,
+      "image_count": 56
+    },
+    {
+      "folder": "language",
+      "display_name": "Language",
+      "post_count": 6,
+      "image_count": 47
+    },
+    {
+      "folder": "mental-health",
+      "display_name": "Mental Health",
+      "post_count": 6,
+      "image_count": 49
     },
     {
       "folder": "reproductive-rights",
+      "display_name": "Reproductive Rights",
       "post_count": 7,
       "image_count": 64
+    },
+    {
+      "folder": "school-safety",
+      "display_name": "School Safety",
+      "post_count": 6,
+      "image_count": 49
+    },
+    {
+      "folder": "tariffs",
+      "display_name": "Tariffs",
+      "post_count": 6,
+      "image_count": 59
+    },
+    {
+      "folder": "wage-gap",
+      "display_name": "Wage Gap",
+      "post_count": 6,
+      "image_count": 49
+    },
+    {
+      "folder": "wealth-inequality",
+      "display_name": "Wealth Inequality",
+      "post_count": 6,
+      "image_count": 65
     }
   ]
 }

@@ -1,4 +1,4 @@
-# Education
+# Access to Education
 
 Posts:
 - @ourschoolsusa_cbad → `ourschoolsusa-cbad/`

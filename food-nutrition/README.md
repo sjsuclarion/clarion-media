@@ -1,4 +1,4 @@
-# Food Nutrition
+# Food & Nutrition
 
 Posts:
 - @commonsearth → `commonsearth/`
