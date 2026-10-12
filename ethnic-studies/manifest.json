@@ -1,0 +1,66 @@
+{
+  "collection": "Social Issues Through an Ethnic Studies Lens",
+  "base_path": "ethnic-studies",
+  "topics": [
+    {
+      "display_name": "Climate",
+      "folder": "climate",
+      "post_count": 4,
+      "manifest": "climate/manifest.json"
+    },
+    {
+      "display_name": "Discipline",
+      "folder": "discipline",
+      "post_count": 4,
+      "manifest": "discipline/manifest.json"
+    },
+    {
+      "display_name": "Education",
+      "folder": "education",
+      "post_count": 4,
+      "manifest": "education/manifest.json"
+    },
+    {
+      "display_name": "Nutrition",
+      "folder": "nutrition",
+      "post_count": 4,
+      "manifest": "nutrition/manifest.json"
+    },
+    {
+      "display_name": "Gentrification & Sprawl",
+      "folder": "gentrification-sprawl",
+      "post_count": 4,
+      "manifest": "gentrification-sprawl/manifest.json"
+    },
+    {
+      "display_name": "Health",
+      "folder": "health",
+      "post_count": 4,
+      "manifest": "health/manifest.json"
+    },
+    {
+      "display_name": "Housing",
+      "folder": "housing",
+      "post_count": 4,
+      "manifest": "housing/manifest.json"
+    },
+    {
+      "display_name": "Immigration",
+      "folder": "immigration",
+      "post_count": 4,
+      "manifest": "immigration/manifest.json"
+    },
+    {
+      "display_name": "Voting Rights",
+      "folder": "voting-rights",
+      "post_count": 4,
+      "manifest": "voting-rights/manifest.json"
+    },
+    {
+      "display_name": "Wealth Inequality",
+      "folder": "wealth-inequality",
+      "post_count": 4,
+      "manifest": "wealth-inequality/manifest.json"
+    }
+  ]
+}

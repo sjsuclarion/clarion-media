@@ -1,0 +1,79 @@
+{
+  "topic": "Voting Rights",
+  "slug": "voting-rights",
+  "posts": [
+    {
+      "order": 1,
+      "display_name": "@ccnc_hbcuaction",
+      "handle": "ccnc_hbcuaction",
+      "folder": "ccnc-hbcuaction",
+      "source_zip": "instagram_ccnc_hbcuaction_DcMrlB2iU46.zip",
+      "post_id": "DcMrlB2iU46",
+      "files": [
+        "01.webp",
+        "02.webp",
+        "03.webp",
+        "04.webp",
+        "05.webp"
+      ],
+      "starts_at_00": false,
+      "caption": "image"
+    },
+    {
+      "order": 2,
+      "display_name": "@fairfightaction",
+      "handle": "fairfightaction",
+      "folder": "fairfightaction",
+      "source_zip": "instagram_fairfightaction_DM-y0cFpxBt.zip",
+      "post_id": "DM-y0cFpxBt",
+      "files": [
+        "01.webp",
+        "02.webp",
+        "03.webp",
+        "04.webp",
+        "05.webp",
+        "06.webp",
+        "07.webp"
+      ],
+      "starts_at_00": false,
+      "caption": "image"
+    },
+    {
+      "order": 3,
+      "display_name": "@feminist",
+      "handle": "feminist",
+      "folder": "feminist",
+      "source_zip": "instagram_feminist_DUlb-5PgMKX.zip",
+      "post_id": "DUlb-5PgMKX",
+      "files": [
+        "01.webp",
+        "02.webp",
+        "03.webp",
+        "04.webp",
+        "05.webp",
+        "06.webp"
+      ],
+      "starts_at_00": false,
+      "caption": "image"
+    },
+    {
+      "order": 4,
+      "display_name": "@standupindiana",
+      "handle": "standupindiana",
+      "folder": "standupindiana",
+      "source_zip": "instagram_standupindiana_DFXzDCBuaGe.zip",
+      "post_id": "DFXzDCBuaGe",
+      "files": [
+        "01.webp",
+        "02.webp",
+        "03.webp",
+        "04.webp",
+        "05.webp",
+        "06.webp",
+        "07.webp"
+      ],
+      "starts_at_00": false,
+      "caption": "image"
+    }
+  ]
+}

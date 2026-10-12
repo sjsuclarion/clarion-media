@@ -1,0 +1,89 @@
+{
+  "topic": "Wealth Inequality",
+  "slug": "wealth-inequality",
+  "posts": [
+    {
+      "order": 1,
+      "display_name": "@everettfreepantry",
+      "handle": "everettfreepantry",
+      "folder": "everettfreepantry",
+      "source_zip": "instagram_everettfreepantry_DbGbEF0GzOs.zip",
+      "post_id": "DbGbEF0GzOs",
+      "files": [
+        "01.webp",
+        "02.webp",
+        "03.webp",
+        "04.webp",
+        "05.webp"
+      ],
+      "starts_at_00": false,
+      "caption": "image"
+    },
+    {
+      "order": 2,
+      "display_name": "@kansascitygift",
+      "handle": "kansascitygift",
+      "folder": "kansascitygift",
+      "source_zip": "instagram_kansascitygift_C8nKgUoP7hI(1).zip",
+      "post_id": "C8nKgUoP7hI",
+      "files": [
+        "01.webp",
+        "02.webp",
+        "03.webp",
+        "04.webp",
+        "05.webp",
+        "06.webp",
+        "07.webp",
+        "08.webp",
+        "09.webp",
+        "10.webp"
+      ],
+      "starts_at_00": false,
+      "caption": "image"
+    },
+    {
+      "order": 3,
+      "display_name": "@thedreamdefenders",
+      "handle": "thedreamdefenders",
+      "folder": "thedreamdefenders",
+      "source_zip": "instagram_thedreamdefenders_DQaZPwTjxMB.zip",
+      "post_id": "DQaZPwTjxMB",
+      "files": [
+        "01.webp",
+        "02.webp",
+        "03.webp",
+        "04.webp",
+        "05.webp",
+        "06.webp",
+        "07.webp",
+        "08.webp",
+        "09.webp"
+      ],
+      "starts_at_00": false,
+      "caption": "image"
+    },
+    {
+      "order": 4,
+      "display_name": "@theslacktivists",
+      "handle": "theslacktivists",
+      "folder": "theslacktivists",
+      "source_zip": "instagram_theslacktivists_CB55jRvB8Bj.zip",
+      "post_id": "CB55jRvB8Bj",
+      "files": [
+        "00.webp",
+        "01.webp",
+        "02.webp",
+        "03.webp",
+        "04.webp",
+        "05.webp",
+        "06.webp",
+        "07.webp",
+        "08.webp",
+        "09.webp",
+        "10.webp"
+      ],
+      "starts_at_00": true,
+      "caption": "image"
+    }
+  ]
+}

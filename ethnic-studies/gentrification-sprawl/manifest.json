@@ -1,0 +1,86 @@
+{
+  "topic": "Gentrification & Sprawl",
+  "slug": "gentrification-sprawl",
+  "posts": [
+    {
+      "order": 1,
+      "display_name": "@communitypoweredatx",
+      "handle": "communitypoweredatx",
+      "folder": "communitypoweredatx",
+      "source_zip": "instagram_communitypoweredatx_DIAIf4FJrs2.zip",
+      "post_id": "DIAIf4FJrs2",
+      "files": [
+        "01.webp",
+        "02.webp",
+        "03.webp",
+        "04.webp",
+        "05.webp",
+        "06.webp"
+      ],
+      "starts_at_00": false,
+      "caption": "image"
+    },
+    {
+      "order": 2,
+      "display_name": "@pharcville",
+      "handle": "pharcville",
+      "folder": "pharcville",
+      "source_zip": "instagram_pharcville_DQHJjeZDT2d.zip",
+      "post_id": "DQHJjeZDT2d",
+      "files": [
+        "01.webp",
+        "02.webp",
+        "03.webp",
+        "04.webp",
+        "05.webp",
+        "06.webp",
+        "07.webp",
+        "08.webp",
+        "09.webp",
+        "10.webp"
+      ],
+      "starts_at_00": false,
+      "caption": "image"
+    },
+    {
+      "order": 3,
+      "display_name": "@pslsandiego",
+      "handle": "pslsandiego",
+      "folder": "pslsandiego",
+      "source_zip": "instagram_pslsandiego_DawCqWJj3YI.zip",
+      "post_id": "DawCqWJj3YI",
+      "files": [
+        "01.webp",
+        "02.webp",
+        "03.webp",
+        "04.webp",
+        "05.webp",
+        "06.webp",
+        "07.webp",
+        "08.webp",
+        "09.webp"
+      ],
+      "starts_at_00": false,
+      "caption": "image"
+    },
+    {
+      "order": 4,
+      "display_name": "@stopvalleysedge",
+      "handle": "stopvalleysedge",
+      "folder": "stopvalleysedge",
+      "source_zip": "instagram_stopvalleysedge_Cn7X5d_Pz-L.zip",
+      "post_id": "Cn7X5d_Pz-L",
+      "files": [
+        "01.webp",
+        "02.webp",
+        "03.webp",
+        "04.webp",
+        "05.webp",
+        "06.webp",
+        "07.webp"
+      ],
+      "starts_at_00": false,
+      "caption": "image"
+    }
+  ]
+}
